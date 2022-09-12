@@ -6,6 +6,7 @@
 - 🌱 I’m currently learning [Three.js](https://threejs.org/)
 
 <h3 align="left">Connect with me:</h3>
+emilcu05@gmail.com
 <p align="left">
 </p>
 
