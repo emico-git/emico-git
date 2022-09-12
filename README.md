@@ -1,4 +1,4 @@
-!(https://github.com/emico-git/emico-git/blob/main/Banner.gif)
+<img src="https://github.com/emico-git/emico-git/blob/main/Banner.gif" alt="banner"/>
 <h1 align="center">Hi 👋, I'm Emil Collins Udupuzhayil</h1>
 <h3 align="center">I am 17 years old and i am currently studying to become an application developer through the IMS at the Kantonsschule Büelrain.</h3>
 
